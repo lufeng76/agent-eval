@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+.ca_debug.log
+
+# Secrets - never commit passwords
+.env
+
+# Editor
+.idea/
+.vscode/
+
+# Temp
+/tmp/
+prompt
